@@ -1,0 +1,14 @@
+.ad{
+    
+    background-color:#0ca678;
+    box-shadow: 10px 10px 15px;
+}
+image{
+    width: 100%;
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:20px
+}

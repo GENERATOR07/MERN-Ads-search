@@ -1,0 +1,33 @@
+.ads{
+  display:grid;
+  grid-template-columns: 500px 500px;
+  justify-content: space-between;
+  row-gap: 30px;
+  column-gap: 30px;
+}
+input{
+  margin:30px;
+  width:500px;
+  height:30px;
+  box-shadow: 10px 10px 15px;
+  border: none;
+  text-align: center;
+  border-radius: 5px;
+  
+  
+  
+}
+.App{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image{
+  width: 100%;
+  height: auto;
+}
+button{
+  background-color:#fa5252;
+  width: 100px;
+  height: 30px;
+}
